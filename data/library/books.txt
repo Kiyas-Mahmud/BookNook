@@ -1,0 +1,2 @@
+1,Books1,Author1,Publisher1,50,50,2023-12-29
+2,Book2,Author2,Publisher2,100,100,2023-12-29
